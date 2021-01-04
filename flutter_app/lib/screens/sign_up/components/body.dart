@@ -1,7 +1,7 @@
 import 'package:flutter_app/components/default_button.dart';
 import 'package:flutter_app/screens/buy_signUp/buy_signUp_screen.dart';
 import 'package:flutter_app/screens/sell_signUp/sell_signUp_screen.dart';
-import 'file:///F:/study/3rd%20computer/SoftWare/slides/Test/New%20folder/flutter_app/lib/common/size_config.dart';
+import 'package:flutter_app/common/size_config.dart';
 import 'package:flutter/material.dart';
 
 class Body extends StatelessWidget {

@@ -37,23 +37,24 @@ It consists of two interface
 => Seller preview his products
 
 => Add product
+
 ## Android Screenshots
 
   HomePage                 |   Category        |  Product Detail Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/preview/1.jpg)|![](/preview/2.jpg)|![](/preview/3.jpg)
+![](/flutter_app/preview/1.jpg)|![](/flutter_app/preview/2.jpg)|![](/flutter_app/preview/3.jpg)
 
   Review & comments        |   Cart                    |  Side menue
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/preview/4.jpg)|![](/preview/5.jpg)|![](/preview/6.jpg)
+![](/flutter_app/preview/4.jpg)|![](/flutter_app/preview/5.jpg)|![](/flutter_app/preview/6.jpg)
 
   Profile                |   Edit Profile        |  About
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/preview/7.jpg)|![](/preview/8.jpg)|![](/preview/9.jpg)
+![](/flutter_app/preview/7.jpg)|![](/flutter_app/preview/8.jpg)|![](/flutter_app/preview/9.jpg)
 
   Seller Home page         |   Add product        |  Add product
 :-------------------------:|:-------------------------:|:-------------------------:
-![](/preview/10.jpg)|![](/preview/11.jpg)|![](/preview/12.jpg)
+![](/flutter_app/preview/10.jpg)|![](/flutter_app/preview/11.jpg)|![](/flutter_app/preview/12.jpg)
 
 
 ## Directory Structure

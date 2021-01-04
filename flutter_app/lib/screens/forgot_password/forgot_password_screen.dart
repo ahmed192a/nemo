@@ -1,4 +1,4 @@
-import 'file:///F:/study/3rd%20computer/SoftWare/slides/Test/New%20folder/flutter_app/lib/common/size_config.dart';
+import 'package:flutter_app/common/size_config.dart';
 import 'package:flutter/material.dart';
 
 import 'components/body.dart';
